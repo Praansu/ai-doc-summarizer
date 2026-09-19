@@ -1,5 +1,7 @@
 # AI Doc Summarizer
 
+> **Archived — superseded by [pdf-chat-rag](https://github.com/Praansu/pdf-chat-rag).** This was the first version (LangChain + Streamlit + OpenAI). The newer repo rebuilds the same idea from scratch: no agent framework, FastAPI + SSE streaming, local embeddings, real document CRUD. Kept here for history.
+
 Upload a PDF, ask questions about it, get answers. It's RAG (retrieval-augmented generation) in its simplest form — built because I wanted to understand how "chat with your PDF" apps actually work under the hood.
 
 ## How it works (in plain English)
